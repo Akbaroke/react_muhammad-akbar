@@ -2,3 +2,5 @@
 
 - 1_Introduction Front End [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/1_Introduction%20Front%20End)
 
+- 2_Version Control and Branch Management (Git) [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git))
+
