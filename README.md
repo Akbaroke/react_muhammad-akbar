@@ -4,5 +4,5 @@
 
 - 2_Version Control and Branch Management (Git) [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/2_Version%20Control%20and%20Branch%20Management%20(Git))
 
-- 3_HTML [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/2_HTML)
+- 3_HTML [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/3_HTML)
 
