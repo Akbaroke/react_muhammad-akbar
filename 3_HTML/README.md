@@ -1,3 +1,7 @@
 # 3_HTML
 
-coming soon..
+HTML (HyperText Markup Language) merupakan bahasa markah yang digunakan untuk membangun struktur dasar sebuah laman web. Ia terdiri daripada elemen-elemen yang dikelilingi oleh tag-tag yang memberi tahu peramban bagaimana seharusnya menampilkan konten. Setiap laman web HTML biasanya bermula dengan tag `<html>` sebagai elemen induk, yang berisi dua bahagian utama: `<head>` untuk maklumat mengenai laman seperti tajuk dan pautan, dan `<body>` untuk kandungan utama laman termasuk teks, imej, pautan, dan elemen lain. Pengaturan teks di dalam elemen menggunakan tag seperti `<h1>` hingga `<h6>` untuk tajuk berstrata berbeza, `<p>` untuk perenggan, dan tag lain seperti `<ul>` dan `<ol>` untuk senarai tak berangka dan berangka masing-masing.
+
+Pautan juga merupakan aspek penting dalam HTML. Tag `<a>` digunakan untuk membuat pautan ke laman web lain atau sumber dalam laman yang sama. Elemen ini memerlukan atribut `href` untuk menentukan pautan tujuan. Selain itu, HTML juga membolehkan penyisipan imej melalui tag `<img>`, dengan atribut `src` yang mengarahkan ke URL imej. Bagi mengaturkan imej dan elemen lain, atribut seperti `width` dan `height` boleh digunakan untuk menentukan saiz tampilan.
+
+Secara keseluruhannya, HTML adalah asas kepada pembangunan laman web. Dengan menggunakan tag-tag dan atribut-atributnya, pengguna dapat membentuk struktur dan konten laman web, serta menyusun elemen-elemen tersebut agar laman web dapat ditampilkan dengan betul pada pelbagai peramban.
