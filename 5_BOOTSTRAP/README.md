@@ -1,4 +1,4 @@
-# 4_BOOTSTRAP
+# 5_BOOTSTRAP
 
 Bootstrap adalah kerangka kerja (framework) front-end sumber terbuka yang digunakan untuk mempercepat dan menyederhanakan proses pembangunan laman web responsif dan menarik. Dikembangkan oleh Twitter, Bootstrap menyediakan rangkaian gaya pradesain, komponen UI, dan alat-alat interaktif yang dapat dengan mudah diintegrasikan ke dalam proyek laman web. Bootstrap menggunakan kombinasi HTML, CSS, dan JavaScript untuk membangun elemen-elemen seperti navigasi, tombol, formulir, grid responsif, serta banyak komponen lain yang memungkinkan pengembang menghasilkan laman web yang terlihat profesional dan sesuai dengan berbagai perangkat.
 
