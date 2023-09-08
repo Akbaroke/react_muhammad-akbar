@@ -12,4 +12,4 @@
 
 - 6_Javascript Refreshment [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/6_Javascript%20Refreshment)
 
-- 7_Introduction React [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/6_Javascript%20Refreshment)
+- 7_Introduction React [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/7_Introduction%20React)
