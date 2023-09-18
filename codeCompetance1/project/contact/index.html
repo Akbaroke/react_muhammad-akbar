@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../normalize.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Code Competent 1 | Contact</title>
+</head>
+<body>
+  <section id="contact">
+    <div>
+      <h1>Contact us</h1>
+      <p>Need to get in touch with us? Either fill out the form with your inquiry or find the department email you'd like to contact below.</p>
+    </div>
+    <form onsubmit="handleSubmit(event)">
+      <div class="inputan-wrapper">
+        <div class="inputan">
+          <label for="first_name">First name</label>
+          <input type="text" id="first_name" name="first_name" required>
+        </div>
+        <div class="inputan">
+          <label for="last_name">Last name</label>
+          <input type="text" id="last_name" name="last_name" required>
+        </div>
+      </div>
+      <div class="inputan">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+      </div>
+      <div class="inputan">
+        <label for="message">What can we help you with?</label>
+        <textarea name="message" id="message" cols="30" rows="10"></textarea>
+      </div>
+      <button type="submit">Submit</button>
+    </form>
+  </section>
+  <script>
+    const handleSubmit = (e) => {
+      e.preventDefault();
+
+      const firstName = document.getElementById('first_name').value;
+      const lastName = document.getElementById('last_name').value;
+      const email = document.getElementById('email').value;
+      const message = document.getElementById('message').value;
+
+      const alertMessage = `First Name: ${firstName}\nLast Name: ${lastName}\nEmail: ${email}\nMessage: ${message}`;
+
+      alert(alertMessage);
+
+      document.getElementById('first_name').value = '';
+      document.getElementById('last_name').value = '';
+      document.getElementById('email').value = '';
+      document.getElementById('message').value = '';
+    }
+  </script>
+</body>
+</html>

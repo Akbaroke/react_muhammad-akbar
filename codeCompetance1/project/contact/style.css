@@ -1,0 +1,64 @@
+#contact {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+  justify-content: space-evenly;
+  gap: 40px;
+}
+
+#contact>div {
+  max-width: 300px;
+  padding: 40px 0;
+}
+
+#contact>div>h1 {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+#contact>div>p {
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+#contact>form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.inputan-wrapper {
+  display: flex;
+  gap: 15px;
+}
+
+.inputan {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+.inputan>input,
+.inputan>textarea {
+  border: 1px solid #949494;
+  border-radius: 5px;
+  min-height: 25px;
+  font-size: 14px;
+  padding: 0 5px;
+  outline: none;
+}
+
+#contact>form>button {
+  color: white;
+  background: #1a6396;
+  border: none;
+  outline: none;
+  padding: 12px 28px;
+  cursor: pointer;
+  width: max-content;
+  border-radius: 5px;
+}

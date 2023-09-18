@@ -1,0 +1,73 @@
+nav {
+  position: fixed;
+  right: 0;
+  left: 0;
+  top: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  font-family: 'Fira Sans', sans-serif;
+  backdrop-filter: blur(10px);
+  background: #2b2b2b72;
+}
+
+nav>a {
+  color: white;
+  letter-spacing: 2px;
+}
+
+nav>ul {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+nav>ul>li>a {
+  color: white;
+  letter-spacing: 1px;
+}
+
+#hero {
+  background-image: url("../assets/bg-hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+#hero>div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 30px;
+}
+
+#hero>div>div>h1 {
+  color: white;
+  font-size: 35px;
+  font-weight: 600;
+  font-family: 'Fira Sans', sans-serif;
+  margin-bottom: 10px;
+}
+
+#hero>div>div>p {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+#hero>div>button {
+  color: white;
+  background: #1a6396;
+  border: none;
+  outline: none;
+  padding: 12px 28px;
+  cursor: pointer;
+}
