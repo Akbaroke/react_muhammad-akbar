@@ -1,0 +1,3 @@
+# 11_React Routing
+
+React Routing adalah teknik yang memungkinkan navigasi multi-halaman dalam aplikasi React tanpa memuat ulang seluruh halaman. Dengan menggunakan komponen seperti BrowserRouter, Route, dan Link, pengembang dapat menentukan bagaimana komponen akan ditampilkan berdasarkan URL. Hal ini memungkinkan pengguna untuk berpindah antara berbagai tampilan aplikasi dengan mulus. React Routing juga mendukung parameter dinamis, tautan navigasi, pengalihan, dan penanganan rute yang tidak cocok. Selain itu, teknik ini memungkinkan pengelolaan riwayat navigasi dan implementasi kode terpisah untuk meminimalkan waktu pemuatan awal aplikasi.
