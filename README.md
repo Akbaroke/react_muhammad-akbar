@@ -22,4 +22,6 @@
 
 - 11_React Routing [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/11_React%20Routing)
 
+- 12_React Routing [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/12_React%20Routing)
+
 - Code Competance 1 [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/codeCompetance1)
