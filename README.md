@@ -24,4 +24,6 @@
 
 - 12_React Form [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/12_React%20Form)
 
+- 13_Deployment Vercel [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/13_Deployment%20Vercel)
+
 - Code Competance 1 [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/codeCompetance1)
