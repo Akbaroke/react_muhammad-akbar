@@ -30,4 +30,6 @@
 
 - Code Competance 1 [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/codeCompetance1)
 
+- Code Competance 2 [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/codeCompetance2)
+
 - Explorasi Global State Redux [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/explorasi_GlobalState)
