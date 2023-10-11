@@ -28,6 +28,8 @@
 
 - 14_RestApi [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/14_RestApi)
 
+- 15_Installation Open.ai di React [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/15_Installation%20Open.ai%20di%20React)
+
 - Code Competance 1 [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/codeCompetance1)
 
 - Code Competance 2 [🔗view](https://github.com/Akbaroke/react_muhammad-akbar/tree/main/codeCompetance2)
