@@ -1,0 +1,5 @@
+# 15_Installation Open.ai di React
+
+Untuk mengintegrasikan OpenAI di React, langkah pertama adalah memastikan Anda telah memasang pustaka resmi OpenAI melalui npm atau yarn. Anda dapat melakukannya dengan perintah npm install openai atau yarn add openai. Setelah itu, impor pustaka OpenAI di file komponen React yang ingin Anda gunakan dengan perintah import openai from 'openai'. Sekarang, Anda dapat menggunakan metode dari pustaka OpenAI seperti openai.Completion.create() untuk mengakses berbagai layanan seperti text generation. Pastikan Anda juga memiliki API kunci OpenAI yang valid dan aturnya di aplikasi Anda untuk otorisasi.
+
+Setelah pustaka terpasang dan diimpor, Anda dapat memanfaatkan kemampuan OpenAI dengan mengirimkan permintaan API ke platform mereka. Anda bisa menggunakan metode openai.Completion.create() untuk menghasilkan teks atau memanfaatkan layanan lain yang disediakan oleh OpenAI. Jangan lupa untuk memasukkan API kunci Anda sebagai bagian dari otorisasi. Sekarang, Anda siap untuk mengintegrasikan kecerdasan buatan OpenAI ke dalam proyek React Anda dengan mudah dan efektif.
