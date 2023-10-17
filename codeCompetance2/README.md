@@ -1,4 +1,4 @@
-# Code Competence 1
+# Code Competence 2
 
 ### 1. Wellcome dan Contact
 <img src="./screenshot/1.PNG"/>
